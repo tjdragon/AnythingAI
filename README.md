@@ -31,6 +31,8 @@ Links, Podcasts, Repos of Interest.
 
 ## Workflows Engines
 - [Make](https://www.make.com/en)
+- [Temporal](https://temporal.io/)
+- [Service Now](https://www.servicenow.com/)
 
 ## Learning
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
