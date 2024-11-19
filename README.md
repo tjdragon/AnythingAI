@@ -7,6 +7,7 @@ Links, Podcasts, Repos of Interest.
 - [AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [CrewAI](https://www.crewai.com/)
 - [Llama Index](https://www.llamaindex.ai/)
+- [Swarms](https://docs.swarms.world/en/latest/)
 - [Lang Flow](https://www.langflow.org/)
 - [Flowise](https://flowiseai.com/)
 - [DiFy](https://dify.ai/)
