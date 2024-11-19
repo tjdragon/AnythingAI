@@ -6,6 +6,7 @@ Links, Podcasts, Repos of Interest.
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
 - [AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [CrewAI](https://www.crewai.com/)
+- [Llama Index](https://www.llamaindex.ai/)
 - [Lang Flow](https://www.langflow.org/)
 - [Flowise](https://flowiseai.com/)
 - [DiFy](https://dify.ai/)
