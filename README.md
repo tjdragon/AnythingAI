@@ -19,6 +19,7 @@ Links, Podcasts, Repos of Interest.
     - [Distributed Agents](https://microsoft.github.io/autogen/0.4.0.dev6/user-guide/core-user-guide/framework/distributed-agent-runtime.html)
  
 - [N8N](https://docs.n8n.io/)
+    - [n8n templates](https://n8n.io/workflows/?utm_source=n8n_app&utm_medium=template_library&utm_instance=http%3A%2F%2Flocalhost%3A5678%2F&utm_n8n_version=1.67.1&utm_awc=0)
 
 ## Models
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
