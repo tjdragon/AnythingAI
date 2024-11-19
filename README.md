@@ -17,6 +17,8 @@ Links, Podcasts, Repos of Interest.
 - [AutoGen](https://www.microsoft.com/en-us/research/project/autogen/)
     - [Two Agents Chat](https://microsoft.github.io/autogen-for-net/articles/Two-agent-chat.html)
     - [Distributed Agents](https://microsoft.github.io/autogen/0.4.0.dev6/user-guide/core-user-guide/framework/distributed-agent-runtime.html)
+ 
+- [N8N](https://docs.n8n.io/)
 
 ## Models
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
