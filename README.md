@@ -56,3 +56,4 @@ Links, Podcasts, Repos of Interest.
 
 ## Podcasts of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
+- [The Future of AI Assistants: Jerry Liu | Ray Summit 2024](https://www.youtube.com/watch?v=RK5BIMcx-BY)
