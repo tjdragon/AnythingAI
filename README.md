@@ -2,7 +2,7 @@
 Anything About Artificial Intelligence.
 Links, Podcasts, Repos of Interest.
 
-## Agents
+## Agents & Other stuff
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
 - [AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [CrewAI](https://www.crewai.com/)
@@ -17,9 +17,11 @@ Links, Podcasts, Repos of Interest.
 - [AutoGen](https://www.microsoft.com/en-us/research/project/autogen/)
     - [Two Agents Chat](https://microsoft.github.io/autogen-for-net/articles/Two-agent-chat.html)
     - [Distributed Agents](https://microsoft.github.io/autogen/0.4.0.dev6/user-guide/core-user-guide/framework/distributed-agent-runtime.html)
- 
 - [N8N](https://docs.n8n.io/)
     - [n8n templates](https://n8n.io/workflows/?utm_source=n8n_app&utm_medium=template_library&utm_instance=http%3A%2F%2Flocalhost%3A5678%2F&utm_n8n_version=1.67.1&utm_awc=0)
+- [Insanely fast AI voice assistant in 50 LOC](https://github.com/dsa/fast-voice-assistant)
+- [CerebriumAI Voice Assitant](https://github.com/CerebriumAI/examples/tree/master/6-voice/2-realtime-voice-agent)
+- [The World's Fastest AI Inference](https://sambanova.ai/)
 
 ## Models
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
@@ -57,10 +59,11 @@ Links, Podcasts, Repos of Interest.
 - [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python)
 - [5 easy ways to run an LLM locally](https://www.infoworld.com/article/2338922/5-easy-ways-to-run-an-llm-locally.html)
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [https://d2l.ai/index.html](https://d2l.ai/index.html)
-- [https://weaviate.io/blog/what-is-agentic-rag?s=08](https://weaviate.io/blog/what-is-agentic-rag?s=08)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
+- [What is Agentic RAG](https://weaviate.io/blog/what-is-agentic-rag?s=08)
 - [Scaling: The State of Play in AI](https://www.oneusefulthing.org/p/scaling-the-state-of-play-in-ai)
 
-## Podcasts of Interest
+## Podcasts, Videos and Articles of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
 - [The Future of AI Assistants: Jerry Liu | Ray Summit 2024](https://www.youtube.com/watch?v=RK5BIMcx-BY)
+- [Cerebras Now The Fastest LLM Inference Processor; Its Not Even Close](https://www.forbes.com/sites/karlfreund/2024/11/18/cerebras-now-the-fastest-llm-inference-processor--its-not-even-close/)
