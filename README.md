@@ -1,6 +1,7 @@
 # AnythingAI
-Anything About Artificial Intelligence.
-Links, Podcasts, Repos of Interest.
+Anything About Artificial Intelligence.  
+Links, Podcasts, Repos of Interest.  
+Created in Nov 2024.
 
 ## Agents & Other stuff
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
