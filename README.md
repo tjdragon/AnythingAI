@@ -70,3 +70,5 @@ Created in Nov 2024, Last Updated: Today.
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
 - [The Future of AI Assistants: Jerry Liu | Ray Summit 2024](https://www.youtube.com/watch?v=RK5BIMcx-BY)
 - [Cerebras Now The Fastest LLM Inference Processor; Its Not Even Close](https://www.forbes.com/sites/karlfreund/2024/11/18/cerebras-now-the-fastest-llm-inference-processor--its-not-even-close/)
+- [Microsoft quietly assembles the largest AI agent ecosystem—and no one else is close](https://venturebeat.com/ai/microsoft-quietly-assembles-the-largest-ai-agent-ecosystem-and-no-one-else-is-close/)
+- [Breaking at Ignite: Microsoft Unveils AI Agent Revolution](https://www.youtube.com/watch?v=6y31CDLDzjg)
