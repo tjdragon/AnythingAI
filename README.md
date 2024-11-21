@@ -24,7 +24,8 @@ Created in Nov 2024, Last Updated: Today.
 - [CerebriumAI Voice Assitant](https://github.com/CerebriumAI/examples/tree/master/6-voice/2-realtime-voice-agent)
 - [The World's Fastest AI Inference](https://sambanova.ai/)
 - [H Company](https://www.hcompany.ai/)
-- [Fetch AI](https://fetch.ai/) 
+- [Fetch AI](https://fetch.ai/)
+- [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio)
 
 ## Models
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
