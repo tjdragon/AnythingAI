@@ -97,7 +97,15 @@ AI models are essentially complex mathematical representations that have been tr
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
 
 ### Storage
-wip
+AI storage is a type of storage that is specifically designed to meet the needs of artificial intelligence (AI) applications. These applications tend to be very data-intensive, so AI storage needs to be able to handle large volumes of data with high performance and low latency.
+
+- [Chroma](https://www.chroma.com/)
+- [Qdrant](https://qdrant.tech/)
+- [Milvus](https://milvus.io/)
+- [Pinecone](https://www.pinecone.io/)
+- [Weaviate](https://weaviate.io/platform)
+- [Neon](https://neon.tech/)
+- [Supabase](https://supabase.com/vector)
 
 ## Agents & Other stuff - Uncategorized for now
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
