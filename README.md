@@ -66,11 +66,21 @@ Refers to the ability of an AI system to store, retrieve, and utilize informatio
 - [Mem0](https://mem0.ai/)
 
 ### Tooling
-wip
+Integration platforms for AI Agents & LLMs:
+
+-[Composio](https://composio.dev/)
+-[Exa](https://exa.ai/)
+-[BrowserBase](https://www.browserbase.com/)
+
 ### Sandboxes
-wip
+AI sandboxes are isolated environments where developers can build, test, and deploy AI agents without affecting real-world systems or data. They provide a safe space to experiment with new ideas, debug code, and ensure the responsible use of AI.
+
+- [E2B](https://e2b.dev/)
+- [Model](https://modal.com/)
+
 ### Models
 wip
+
 ### Storage
 wip
 
