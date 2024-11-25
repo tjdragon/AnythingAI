@@ -3,7 +3,7 @@ Anything About Artificial Intelligence.
 Links, Podcasts, Repos of Interest.  
 Created in Nov 2024, Last Updated: Today.
 
-## Agents & Other stuff - Categorized.
+## Agents & Other stuff - Categorized
 
 ### Vertical Agents
 Vertical AI agents are specialized AI systems designed to automate specific tasks and workflows within a particular industry or domain. 
@@ -32,7 +32,7 @@ Agent hosting and serving refers to the infrastructure and processes involved in
 - [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/): Enable generative AI applications to execute multistep tasks across company systems and data sources
 - [LiveKit Agents](https://docs.livekit.io/agents/): LiveKit Agents is an end-to-end framework that enables developers to build intelligent, multimodal voice assistants (AI agents) capable of engaging users through voice, video, and data channels.
 
-## Agents & Other stuff - Uncategorized.
+## Agents & Other stuff - Uncategorized
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
 - [AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [CrewAI](https://www.crewai.com/)
