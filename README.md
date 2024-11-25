@@ -46,15 +46,17 @@ AI observability, is crucial for understanding, managing, and troubleshooting AI
 
 ### Agent Frameworks
 
+wip
 ### Memory
-
+wip
 ### Tooling
-
+wip
 ### Sandboxes
-
+wip
 ### Models
-
+wip
 ### Storage
+wip
 
 ## Agents & Other stuff - Uncategorized
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
