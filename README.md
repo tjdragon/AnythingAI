@@ -3,7 +3,36 @@ Anything About Artificial Intelligence.
 Links, Podcasts, Repos of Interest.  
 Created in Nov 2024, Last Updated: Today.
 
-## Agents & Other stuff
+## Agents & Other stuff - Categorized.
+
+### Vertical Agents
+Vertical AI agents are specialized AI systems designed to automate specific tasks and workflows within a particular industry or domain. 
+They go beyond general-purpose AI by incorporating industry-specific knowledge and expertise to solve unique challenges and optimize processes.
+
+- [Decagon](https://decagon.ai/): AI customer support agents for the enterprise.
+- [Sierra](https://sierra.ai/): Elevate your customer experience with AI. 
+- [Replit](https://replit.com/ai): Make apps and sites with natural language prompts
+- [Perplexity](https://www.perplexity.ai/): AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+- [Harvey](https://www.harvey.ai/): Domain-specific AI for law firms, professional service providers, and the Fortune 500.
+- [MultiOn](https://www.multion.ai/): Build and embed AI agents that get things done for your users by completing tasks on the web.
+- [Cognition](https://www.cognition.ai/): An applied AI lab building end-to-end software agents
+- [Factory](https://www.factory.ai/): Bringing Autonomy to Software Engineering
+- [All Hands](https://www.all-hands.dev/): Open Source Agents for Developers
+- [Dosu](https://dosu.dev/): Dosu lets engineers focus on value-add work by answering questions, triaging issues, and maintaining documentation for them.
+- [Lindy](https://www.lindy.ai/): Build AI agents in minutes to automate workflows, save time, and grow your business.
+- [11x](https://www.11x.ai/): For Sales, RevOps, and Go-to-Market Teams.
+
+### Agent Hosting and serving
+Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
+
+- [Letta](https://www.letta.com/): Advancing the frontier of AI systems with memory
+- [LangGraph](https://www.langchain.com/langgraph): Gain precision and control with LangGraph to build agents that reliably handle complex tasks. Build and scale agentic applications with LangGraph Platform.
+- [Open AI Assitants API](https://platform.openai.com/docs/assistants/overview): The Assistants API allows you to build AI assistants within your own applications.
+- [Agents API](https://agents.ai/): Large Action Models (LAMs) are designed for orchestrating sequences of actions to achieve specific goals
+- [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/): Enable generative AI applications to execute multistep tasks across company systems and data sources
+- [LiveKit Agents](https://docs.livekit.io/agents/): LiveKit Agents is an end-to-end framework that enables developers to build intelligent, multimodal voice assistants (AI agents) capable of engaging users through voice, video, and data channels.
+
+## Agents & Other stuff - Uncategorized.
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
 - [AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [CrewAI](https://www.crewai.com/)
