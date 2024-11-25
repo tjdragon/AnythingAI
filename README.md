@@ -45,10 +45,26 @@ AI observability, is crucial for understanding, managing, and troubleshooting AI
 - [Brain Trust](https://www.braintrust.dev/): Braintrust is the end-to-end platform for building world-class AI apps
 
 ### Agent Frameworks
+Agent frameworks are specialized software platforms designed to streamline the development, deployment, and management of AI agents. Think of them as toolkits that provide the essential building blocks and infrastructure for creating intelligent agents that can interact with their environment, make decisions, and achieve goals.
 
-wip
+- [Letta](https://www.letta.com/)
+- [Langchain](https://www.langchain.com/)
+- [AutoGen](https://www.microsoft.com/en-us/research/project/autogen/)
+- [LlamaIndex](https://www.llamaindex.ai/)
+- [CrewAI](https://www.crewai.com/)
+- [DSPy](https://dspy.ai/)
+- [PhiData](https://www.phidata.com/)
+- [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+- [AutoGPT](https://agpt.co/)
+
 ### Memory
-wip
+Refers to the ability of an AI system to store, retrieve, and utilize information from past interactions or experiences, much like human memory. This is crucial for creating more sophisticated and capable AI agents that can learn, adapt, and engage in more meaningful conversations.
+
+- [MemGPT](https://memgpt.ai/)
+- [GetZep](https://www.getzep.com/)
+- [LangMem](https://langchain-ai.github.io/long-term-memory/)
+- [Mem0](https://mem0.ai/)
+
 ### Tooling
 wip
 ### Sandboxes
@@ -58,7 +74,7 @@ wip
 ### Storage
 wip
 
-## Agents & Other stuff - Uncategorized
+## Agents & Other stuff - Uncategorized for now
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
 - [AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [CrewAI](https://www.crewai.com/)
