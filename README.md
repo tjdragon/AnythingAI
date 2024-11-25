@@ -21,6 +21,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Dosu](https://dosu.dev/): Dosu lets engineers focus on value-add work by answering questions, triaging issues, and maintaining documentation for them.
 - [Lindy](https://www.lindy.ai/): Build AI agents in minutes to automate workflows, save time, and grow your business.
 - [11x](https://www.11x.ai/): For Sales, RevOps, and Go-to-Market Teams.
+- [Transparently](https://www.transparently.ai/): The world’s first AI solution for early detection of accounting manipulation and fraud
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -31,6 +32,29 @@ Agent hosting and serving refers to the infrastructure and processes involved in
 - [Agents API](https://agents.ai/): Large Action Models (LAMs) are designed for orchestrating sequences of actions to achieve specific goals
 - [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/): Enable generative AI applications to execute multistep tasks across company systems and data sources
 - [LiveKit Agents](https://docs.livekit.io/agents/): LiveKit Agents is an end-to-end framework that enables developers to build intelligent, multimodal voice assistants (AI agents) capable of engaging users through voice, video, and data channels.
+
+### Observability
+AI observability, is crucial for understanding, managing, and troubleshooting AI systems in production environments. It goes beyond traditional monitoring by providing deeper insights into the behavior and performance of AI models.
+
+- [LangSmith](https://www.langchain.com/langsmith): LangSmith is an all-in-one developer platform for every step of the LLM-powered application lifecycle
+- [Arize](https://arize.com/): Build AI agents and applications that perform. End-to-end tracing, evaluation, and troubleshooting 
+- [Arthur](https://www.arthur.ai/): Launch, secure, and optimize AI at scale.
+- [Weave](https://weave-docs.wandb.ai/): A lightweight toolkit for tracking and evaluating LLM applications, built by Weights & Biases.
+- [Langfuse](https://langfuse.com/): Traces, evals, prompt management and metrics to debug and improve your LLM application
+- [Agents Ops](https://www.agentops.ai/): Industry leading developer platform to test and debug AI agents.
+- [Brain Trust](https://www.braintrust.dev/): Braintrust is the end-to-end platform for building world-class AI apps
+
+### Agent Frameworks
+
+### Memory
+
+### Tooling
+
+### Sandboxes
+
+### Models
+
+### Storage
 
 ## Agents & Other stuff - Uncategorized
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
