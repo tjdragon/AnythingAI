@@ -79,7 +79,22 @@ AI sandboxes are isolated environments where developers can build, test, and dep
 - [Model](https://modal.com/)
 
 ### Models
-wip
+AI models are essentially complex mathematical representations that have been trained on vast amounts of data to recognize patterns and make predictions or decisions. They are the core of any AI system, enabling it to perform tasks like image recognition, language translation, or game playing.
+
+- [Ollama](https://ollama.com/)
+- [LmStudio](https://lmstudio.ai/)
+- [Sgl](https://github.com/sgl-project)
+- [Together](https://www.together.ai/)
+- [Fireworks](https://fireworks.ai/)
+- [Groq](https://groq.com/)
+- [Open AI](https://openai.com/)
+- [Anthropic](https://www.anthropic.com/)
+- [Mistral](https://mistral.ai/)
+- [Gemini](https://gemini.google.com/)
+- [H Company](https://www.hcompany.ai/)
+- [Fetch](https://fetch.ai/)
+- [Hugging Face](https://huggingface.co/models)
+- [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
 
 ### Storage
 wip
