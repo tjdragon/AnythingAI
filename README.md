@@ -22,6 +22,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Lindy](https://www.lindy.ai/): Build AI agents in minutes to automate workflows, save time, and grow your business.
 - [11x](https://www.11x.ai/): For Sales, RevOps, and Go-to-Market Teams.
 - [Transparently](https://www.transparently.ai/): The world’s first AI solution for early detection of accounting manipulation and fraud
+- [Aomni](https://www.aomni.com/): Accelerate your account-based sales pipeline
+- [God Mode](https://godmodehq.com/): The AI workspace to do sales
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
