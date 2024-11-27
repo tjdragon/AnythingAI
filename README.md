@@ -70,9 +70,9 @@ Refers to the ability of an AI system to store, retrieve, and utilize informatio
 ### Tooling
 Integration platforms for AI Agents & LLMs:
 
--[Composio](https://composio.dev/)
--[Exa](https://exa.ai/)
--[BrowserBase](https://www.browserbase.com/)
+- [Composio](https://composio.dev/)
+- [Exa](https://exa.ai/)
+- [BrowserBase](https://www.browserbase.com/)
 
 ### Sandboxes
 AI sandboxes are isolated environments where developers can build, test, and deploy AI agents without affecting real-world systems or data. They provide a safe space to experiment with new ideas, debug code, and ensure the responsible use of AI.
