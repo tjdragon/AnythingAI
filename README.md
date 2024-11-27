@@ -132,6 +132,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [H Company](https://www.hcompany.ai/)
 - [Fetch AI](https://fetch.ai/)
 - [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio)
+- [AWS Multi-Agent Orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 
 ## Models
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
@@ -148,6 +149,9 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Make](https://www.make.com/en)
 - [Temporal](https://temporal.io/)
 - [Service Now](https://www.servicenow.com/)
+
+## Crypto and AI
+- [Kaito](https://www.kaito.ai/): Search engine for crypto
 
 ## Learning
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
