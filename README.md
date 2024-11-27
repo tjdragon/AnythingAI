@@ -179,3 +179,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Cerebras Now The Fastest LLM Inference Processor; Its Not Even Close](https://www.forbes.com/sites/karlfreund/2024/11/18/cerebras-now-the-fastest-llm-inference-processor--its-not-even-close/)
 - [Microsoft quietly assembles the largest AI agent ecosystem—and no one else is close](https://venturebeat.com/ai/microsoft-quietly-assembles-the-largest-ai-agent-ecosystem-and-no-one-else-is-close/)
 - [Breaking at Ignite: Microsoft Unveils AI Agent Revolution](https://www.youtube.com/watch?v=6y31CDLDzjg)
+
+## Weird Stuff
+- [Preaching the Goatse gospel: A timeline](https://blockworks.co/news/0xresearch-newsletter-goatse-memecoin)
+- [Truth Terminal Gone Wild](https://rekt.news/truth-terminal-gone-wild/)
