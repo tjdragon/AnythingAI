@@ -110,6 +110,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Supabase](https://supabase.com/vector)
 
 ## Agents & Other stuff - Uncategorized for now
+- [Cursor](https://www.cursor.com/): Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
 - [AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [CrewAI](https://www.crewai.com/)
