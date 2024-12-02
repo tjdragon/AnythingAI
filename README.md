@@ -24,6 +24,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Transparently](https://www.transparently.ai/): The world’s first AI solution for early detection of accounting manipulation and fraud
 - [Aomni](https://www.aomni.com/): Accelerate your account-based sales pipeline
 - [God Mode](https://godmodehq.com/): The AI workspace to do sales
+- [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot): AI Agent Platform that transcends the scope of FinGPT
+- [Markovate](https://markovate.com/): Assists data-driven companies in enhancing operational efficiency, reducing costs, and creating new revenue streams through the implementation of Generative AI solutions.
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
