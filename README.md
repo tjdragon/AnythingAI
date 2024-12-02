@@ -137,6 +137,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Microsoft Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio)
 - [AWS Multi-Agent Orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 - [Perplexideez](https://github.com/brunostjohn/perplexideez?s=08): Self-hosted AI-powered search.
+- [Eliza](https://github.com/ai16z/eliza): Chatbots, Trading, Video Game NPCs
 
 ## Models
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
@@ -156,6 +157,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 
 ## Crypto and AI
 - [Kaito](https://www.kaito.ai/): Search engine for crypto
+- [Enabling AI Agents with Blockchain](https://www.circle.com/blog/enabling-ai-agents-with-blockchain)
 
 ## Learning
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
@@ -192,3 +194,8 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 ## Weird Stuff
 - [Preaching the Goatse gospel: A timeline](https://blockworks.co/news/0xresearch-newsletter-goatse-memecoin)
 - [Truth Terminal Gone Wild](https://rekt.news/truth-terminal-gone-wild/)
+- [Vvaifu](https://vvaifu.fun/)
+
+## My Personal Experiments
+- [AI Rap Battle](https://github.com/tjdragon/AI-Rap-Battle)
+- [Cui Cui](https://github.com/tjdragon/cuicui)
