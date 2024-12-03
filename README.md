@@ -157,7 +157,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 
 ## Crypto and AI
 - [Kaito](https://www.kaito.ai/): Search engine for crypto
-- [Enabling AI Agents with Blockchain](https://www.circle.com/blog/enabling-ai-agents-with-blockchain)
+- [Circle Blog](https://www.circle.com/blog/enabling-ai-agents-with-blockchain): Enabling AI Agents with Blockchain
 
 ## Learning
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
