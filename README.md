@@ -47,6 +47,7 @@ AI observability, is crucial for understanding, managing, and troubleshooting AI
 - [Langfuse](https://langfuse.com/): Traces, evals, prompt management and metrics to debug and improve your LLM application
 - [Agents Ops](https://www.agentops.ai/): Industry leading developer platform to test and debug AI agents.
 - [Brain Trust](https://www.braintrust.dev/): Braintrust is the end-to-end platform for building world-class AI apps
+- [Open Llmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application
 
 ### Agent Frameworks
 Agent frameworks are specialized software platforms designed to streamline the development, deployment, and management of AI agents. Think of them as toolkits that provide the essential building blocks and infrastructure for creating intelligent agents that can interact with their environment, make decisions, and achieve goals.
