@@ -183,6 +183,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Dive into Deep Learning](https://d2l.ai/index.html)
 - [What is Agentic RAG](https://weaviate.io/blog/what-is-agentic-rag?s=08)
 - [Scaling: The State of Play in AI](https://www.oneusefulthing.org/p/scaling-the-state-of-play-in-ai)
+- [AI Hedge Fund with Gemini](https://colab.research.google.com/gist/virattt/251cfea5e66b21c7b6a58b8952476117/hedge-fund-trading-team.ipynb)
 
 ## Podcasts, Videos and Articles of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
