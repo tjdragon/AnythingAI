@@ -162,6 +162,10 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Allora Labs](https://www.alloralabs.xyz/): builds industry-leading AI x crypto infrastructure.
 - [Robonet](https://robonet.finance/): unlocks the next era of DeFi with smarter, autonomous AI agents.
 
+## Digital Money
+- [VISA On-Chain](https://visaonchainanalytics.com/)
+- [Cambridge Digital Money](https://ccaf.io/cdmd/dm101/digital-money-overview)
+
 ## Learning
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 - [TensortFlow](https://www.tensorflow.org/)
