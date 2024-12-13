@@ -26,6 +26,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [God Mode](https://godmodehq.com/): The AI workspace to do sales
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot): AI Agent Platform that transcends the scope of FinGPT
 - [Markovate](https://markovate.com/): Assists data-driven companies in enhancing operational efficiency, reducing costs, and creating new revenue streams through the implementation of Generative AI solutions.
+- [Cursor](https://www.cursor.com/): Built to make you extraordinarily productive, Cursor is the best way to code with AI.
+
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -113,11 +115,8 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Supabase](https://supabase.com/vector)
 
 ## Agents & Other stuff - Uncategorized for now
-- [Cursor](https://www.cursor.com/): Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
 - [AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
-- [CrewAI](https://www.crewai.com/)
-- [Llama Index](https://www.llamaindex.ai/)
 - [Swarms](https://docs.swarms.world/en/latest/)
 - [Lang Flow](https://www.langflow.org/)
 - [Flowise](https://flowiseai.com/)
@@ -198,6 +197,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Microsoft quietly assembles the largest AI agent ecosystem—and no one else is close](https://venturebeat.com/ai/microsoft-quietly-assembles-the-largest-ai-agent-ecosystem-and-no-one-else-is-close/)
 - [Breaking at Ignite: Microsoft Unveils AI Agent Revolution](https://www.youtube.com/watch?v=6y31CDLDzjg)
 - [Fireside chat with Yann LeCun hosted by Gaurav Aggarwal, iSPIRT](https://www.youtube.com/watch?v=4V_cJX8sVeM)
+- [2024: The State of Generative AI in the Enterprise](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
 
 ## Weird Stuff
 - [Preaching the Goatse gospel: A timeline](https://blockworks.co/news/0xresearch-newsletter-goatse-memecoin)
