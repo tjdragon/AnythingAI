@@ -198,6 +198,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Breaking at Ignite: Microsoft Unveils AI Agent Revolution](https://www.youtube.com/watch?v=6y31CDLDzjg)
 - [Fireside chat with Yann LeCun hosted by Gaurav Aggarwal, iSPIRT](https://www.youtube.com/watch?v=4V_cJX8sVeM)
 - [2024: The State of Generative AI in the Enterprise](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
+- [How Libra Was Killed](https://x.com/davidmarcus/status/1862654506774810641)
 
 ## Weird Stuff
 - [Preaching the Goatse gospel: A timeline](https://blockworks.co/news/0xresearch-newsletter-goatse-memecoin)
