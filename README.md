@@ -63,6 +63,7 @@ Agent frameworks are specialized software platforms designed to streamline the d
 - [PhiData](https://www.phidata.com/)
 - [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 - [AutoGPT](https://agpt.co/)
+- [Google Agent Space](https://cloud.google.com/products/agentspace)
 
 ### Memory
 Refers to the ability of an AI system to store, retrieve, and utilize information from past interactions or experiences, much like human memory. This is crucial for creating more sophisticated and capable AI agents that can learn, adapt, and engage in more meaningful conversations.
