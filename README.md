@@ -27,7 +27,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot): AI Agent Platform that transcends the scope of FinGPT
 - [Markovate](https://markovate.com/): Assists data-driven companies in enhancing operational efficiency, reducing costs, and creating new revenue streams through the implementation of Generative AI solutions.
 - [Cursor](https://www.cursor.com/): Built to make you extraordinarily productive, Cursor is the best way to code with AI.
-
+- [Kapa](https://www.kapa.ai/): i turns your knowledge base into a reliable and production-ready LLM-powered AI assistant that answers technical product questions instantly and helps improve your documentation. 
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -38,6 +38,7 @@ Agent hosting and serving refers to the infrastructure and processes involved in
 - [Agents API](https://agents.ai/): Large Action Models (LAMs) are designed for orchestrating sequences of actions to achieve specific goals
 - [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/): Enable generative AI applications to execute multistep tasks across company systems and data sources
 - [LiveKit Agents](https://docs.livekit.io/agents/): LiveKit Agents is an end-to-end framework that enables developers to build intelligent, multimodal voice assistants (AI agents) capable of engaging users through voice, video, and data channels.
+- [RunPod](https://www.runpod.io/): Train, fine-tune and deploy AI models with RunPod.
 
 ### Observability
 AI observability, is crucial for understanding, managing, and troubleshooting AI systems in production environments. It goes beyond traditional monitoring by providing deeper insights into the behavior and performance of AI models.
