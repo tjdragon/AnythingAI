@@ -27,7 +27,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot): AI Agent Platform that transcends the scope of FinGPT
 - [Markovate](https://markovate.com/): Assists data-driven companies in enhancing operational efficiency, reducing costs, and creating new revenue streams through the implementation of Generative AI solutions.
 - [Cursor](https://www.cursor.com/): Built to make you extraordinarily productive, Cursor is the best way to code with AI.
-- [Kapa](https://www.kapa.ai/): i turns your knowledge base into a reliable and production-ready LLM-powered AI assistant that answers technical product questions instantly and helps improve your documentation. 
+- [Kapa](https://www.kapa.ai/): it turns your knowledge base into a reliable and production-ready LLM-powered AI assistant that answers technical product questions instantly and helps improve your documentation. 
+- [Hamming](https://hamming.ai/): Launch trustworthy AI voice agents in weeks
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
