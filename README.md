@@ -29,6 +29,12 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Cursor](https://www.cursor.com/): Built to make you extraordinarily productive, Cursor is the best way to code with AI.
 - [Kapa](https://www.kapa.ai/): it turns your knowledge base into a reliable and production-ready LLM-powered AI assistant that answers technical product questions instantly and helps improve your documentation. 
 - [Hamming](https://hamming.ai/): Launch trustworthy AI voice agents in weeks
+- [Elevate AI](https://www.elevateai.com/): Pairing the power of free Generative AI with NICE’s market-leading transcription and proven, trusted Enlighten AI and CX AI models to uncover the hidden insights in your data.
+- [Glide AI](https://www.glideapps.com/): Glide makes it easy to create custom tools for your business, so you can manage customers, track inventory, and visualize KPIs exactly how you want.
+- [Payman](https://www.paymanai.com/): Building the future of AI to Human Payments
+- [Protegee](https://protegee.ai/): Building AI Voice Agents? We enable payments
+- [SkyFire](https://skyfireai.com/): Leading the Way in Highly Effective, Precise, and Efficient Multi-Mission Drone Control
+- [Blitzy](https://blitzy.com/): Build Enterprise Software in Days, not Months
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
