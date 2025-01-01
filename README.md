@@ -42,6 +42,18 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Protect AI](https://protectai.com/): Protect AI is the broadest and most comprehensive platform to secure your AI.
 - [SkyFlow](https://www.skyflow.com/): A Data Privacy Vault to isolate, protect, and govern sensitive data. Any app. Any data. Any LLM.
 - [Troj AI](https://www.troj.ai/): Protect your AI models and applications from risks and attacks with a comprehensive AI security platform.
+- [Astrix](https://astrix.ai/): Accelerate your CFA Level 1 exam
+- [Clutch](https://www.clutchapp.io/): Imagine having a content creator on every court
+- [D-Id](https://www.d-id.com/): Custom AI-powered Digital People at Scale for Businesses and Creators
+- [AI-ID](https://ai-id.io/): Track, Identify and Manage AI Generated Content and Outputs.
+- [Natoma](https://www.natoma.id/): Protect your Data & Systems from Unauthorized Non-Human Identities
+- [Oasis](https://oasis.ai/): AI inference powered by distributed compute
+- [Calypso AI](https://calypsoai.com/): Perform, protect, and evolve with CalypsoAI’s enterprise-grade AI security solution.
+- [Lasso AI](https://www.lasso.ai/): AI models turn metadata into revenue with industry-leading accuracy. As the only platform indexing every business with a website, LinkedIn page, and at least one employee, we deliver 100% additive, verified contact data—helping sales teams find net new opportunities and unlock millions in revenue.
+- [CyberHaven](https://www.cyberhaven.com/): Trace your data to protect it like never before
+- [Lakera](https://www.lakera.ai/): Monitor, protect, and control your AI agents.
+- [Prome AI](https://www.promeai.pro/): The Ultimate AI Art Generator to Bring Your Creativity into Life
+- [Zenity](https://www.zenity.io/): Secure AI Agents everywhere
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
