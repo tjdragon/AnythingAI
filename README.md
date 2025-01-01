@@ -35,6 +35,13 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Protegee](https://protegee.ai/): Building AI Voice Agents? We enable payments
 - [SkyFire](https://skyfireai.com/): Leading the Way in Highly Effective, Precise, and Efficient Multi-Mission Drone Control
 - [Blitzy](https://blitzy.com/): Build Enterprise Software in Days, not Months
+- [DeepKeep](https://www.deepkeep.ai/): AI-Native Security for AI Applications
+- [Gray Swan](https://www.grayswan.ai/): Building safety and security for the AI era
+- [Guardrails AI](https://www.guardrailsai.com/): Mitigate Gen AI risks with Guardrails
+- [HiddenLayer](https://hiddenlayer.com/): The First Security Platform for AI
+- [Protect AI](https://protectai.com/): Protect AI is the broadest and most comprehensive platform to secure your AI.
+- [SkyFlow](https://www.skyflow.com/): A Data Privacy Vault to isolate, protect, and govern sensitive data. Any app. Any data. Any LLM.
+- [Troj AI](https://www.troj.ai/): Protect your AI models and applications from risks and attacks with a comprehensive AI security platform.
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
