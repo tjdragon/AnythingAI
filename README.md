@@ -57,6 +57,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Coval](https://coval.ai/): No developer likes fixing support issues. That's why we built the best support platform for developers.
 - [Halluminate](https://halluminate.ai/): E2E evaluation and testing service for fast moving AI application companies.
 - [W&B](https://wandb.ai/): The AI developer platform to build AI applications and models with confidence
+- [Flux Ai](https://flux-ai.io/): The next-gen image generator rivaling MidJourney Powered by Flux 1.1 Pro Ultra, Flux 1.1 Pro, Flux.1 Pro, Flux.1 Dev and Flux.1 Schnell models.
+- [GraphLit](https://www.graphlit.com/): Automated data preparation for multimodal content, including Markdown extraction, audio transcription and image analysis
 
 ### Developer platforms
 - [Bito](https://docs.bito.ai/): Bito's AI helps developers dramatically accelerate their impact. It's a Swiss Army knife of capabilities that can 10x your developer productivity and save you an hour a day, using the same models as ChatGPT!
@@ -79,6 +81,11 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [ModelCode](https://modelcode.ai/): Modelcode AI is your single solution for modernizing your entire codebase.
 - [OpenAI Codex](https://openai.com/index/openai-codex/): AI system that translates natural language to code, and we are releasing it through our API in private beta starting today.
 - [Replit](https://replit.com/): Create beautiful, modern web applications at the speed of thought. Describe what you need and Replit's AI Agent builds it for you.
+- [Anon](https://www.anon.com/): Developers can enable agents to authenticate and take actions on behalf of users across the most popular sites on the internet.
+- [Brain Trust](https://www.braintrust.dev/): Braintrust is the end-to-end platform for building world-class AI apps
+- [E2B](https://e2b.dev/): Run AI-Generated code securely in your app
+- [Flux](https://www.flux.ai/p): Build professional PCBs with an AI Copilot
+- [StackBlitz](https://stackblitz.com/): StackBlitz lets you write, run, and debug frontend code directly in your browser.
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -100,7 +107,6 @@ AI observability, is crucial for understanding, managing, and troubleshooting AI
 - [Weave](https://weave-docs.wandb.ai/): A lightweight toolkit for tracking and evaluating LLM applications, built by Weights & Biases.
 - [Langfuse](https://langfuse.com/): Traces, evals, prompt management and metrics to debug and improve your LLM application
 - [Agents Ops](https://www.agentops.ai/): Industry leading developer platform to test and debug AI agents.
-- [Brain Trust](https://www.braintrust.dev/): Braintrust is the end-to-end platform for building world-class AI apps
 - [Open Llmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application
 - [HoneyHive](https://www.honeyhive.ai/): AI engineering shouldn't need guesswork. Debug and improve your AI agents with end-to-end testing and observability.
 - [Invariantlabs](https://invariantlabs.ai/): We help agent builders create reliable, robust and secure products.
@@ -138,7 +144,6 @@ Integration platforms for AI Agents & LLMs:
 ### Sandboxes
 AI sandboxes are isolated environments where developers can build, test, and deploy AI agents without affecting real-world systems or data. They provide a safe space to experiment with new ideas, debug code, and ensure the responsible use of AI.
 
-- [E2B](https://e2b.dev/)
 - [Model](https://modal.com/)
 
 ### Models
