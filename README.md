@@ -54,6 +54,31 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Lakera](https://www.lakera.ai/): Monitor, protect, and control your AI agents.
 - [Prome AI](https://www.promeai.pro/): The Ultimate AI Art Generator to Bring Your Creativity into Life
 - [Zenity](https://www.zenity.io/): Secure AI Agents everywhere
+- [Coval](https://coval.ai/): No developer likes fixing support issues. That's why we built the best support platform for developers.
+- [Halluminate](https://halluminate.ai/): E2E evaluation and testing service for fast moving AI application companies.
+- [W&B](https://wandb.ai/): The AI developer platform to build AI applications and models with confidence
+
+### Developer platforms
+- [Bito](https://docs.bito.ai/): Bito's AI helps developers dramatically accelerate their impact. It's a Swiss Army knife of capabilities that can 10x your developer productivity and save you an hour a day, using the same models as ChatGPT!
+- [CodeRabbit](https://www.coderabbit.ai/): Cut Code Review Time & Bugs in Half
+- [Graphite](https://graphite.dev/): The AI developer productivity platform
+- [PotPie](https://potpie.ai/): build custom agents using simple prompts that are expert on your codebase to perform engineering tasks for you
+- [QoDo](https://www.qodo.ai/): Quality-first AI code generation to help busy devs write, test and review code.
+- [Silogy](https://silogy.io/): AI agent, deft debugger, code critic, and your new favorite coworker. 
+- [Sonar](https://www.sonarsource.com/): AI-generated or written by humans, Sonar’s Clean Code Solutions cover your code quality needs, improving code reliability, maintainability, and security
+- [TabNine](https://www.tabnine.com/): The AI code assistant tailored to your team
+- [Taskade](https://www.taskade.com/): Build Your Ultimate AI Agent Workforce.
+- [Cognition](https://www.cognition.ai/): We’re building collaborative AI teammates to help ambitious engineering teams achieve more.
+- [Cursor](https://www.cursor.com/): The AI Code Editor
+- [DECipher](https://devme.ai/): Your AI-Powered Partner in Maximizing Development Impact
+- [Distributional](https://distributional.com/): The Modern Enterprise Platform for AI Testing
+- [Factory](https://www.factory.ai/): Factory helps organizations automate and optimize their software development lifecycle with an enterprise platform built for AI-human collaboration.
+- [Grit](https://docs.grit.io/): Grit is a developer tool to put software maintenance on autopilot.
+- [Magic Ai](https://magicai.ai/): Feed your new AI team mate with your documents and web sites and it will answer all questions for you. It's free to get started, no coding required.
+- [Poolside](https://poolside.ai/): We're building foundation models, an API, and an Assistant to bring the power of generative AI to your developers
+- [ModelCode](https://modelcode.ai/): Modelcode AI is your single solution for modernizing your entire codebase.
+- [OpenAI Codex](https://openai.com/index/openai-codex/): AI system that translates natural language to code, and we are releasing it through our API in private beta starting today.
+- [Replit](https://replit.com/): Create beautiful, modern web applications at the speed of thought. Describe what you need and Replit's AI Agent builds it for you.
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -77,6 +102,9 @@ AI observability, is crucial for understanding, managing, and troubleshooting AI
 - [Agents Ops](https://www.agentops.ai/): Industry leading developer platform to test and debug AI agents.
 - [Brain Trust](https://www.braintrust.dev/): Braintrust is the end-to-end platform for building world-class AI apps
 - [Open Llmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application
+- [HoneyHive](https://www.honeyhive.ai/): AI engineering shouldn't need guesswork. Debug and improve your AI agents with end-to-end testing and observability.
+- [Invariantlabs](https://invariantlabs.ai/): We help agent builders create reliable, robust and secure products.
+- [Fiddler](https://www.fiddler.ai/): All LLM and ML Models Need Production Monitoring
 
 ### Agent Frameworks
 Agent frameworks are specialized software platforms designed to streamline the development, deployment, and management of AI agents. Think of them as toolkits that provide the essential building blocks and infrastructure for creating intelligent agents that can interact with their environment, make decisions, and achieve goals.
