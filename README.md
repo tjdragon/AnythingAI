@@ -256,6 +256,10 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [2024: The State of Generative AI in the Enterprise](https://menlovc.com/2024-the-state-of-generative-ai-in-the-enterprise/)
 - [How Libra Was Killed](https://x.com/davidmarcus/status/1862654506774810641)
 - [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
+- [Large Concept Models](https://www.youtube.com/watch?v=1Z1vKdrmpj4): Future of LLM is LCM!
+- [“Agents Will Replace ALL Software"](https://www.youtube.com/watch?v=uGOLYz2pgr8): By Microsoft's CEO
+- [Artificial Intelligence in Surgery: The Future Is Now](https://karger.com/esr/article-pdf/65/1/22/4174050/000536393.pdf)
+- [How to Build a Voice AI Agent Using Deepgram and OpenAI: A Step-by-Step Guide](https://deepgram.com/learn/how-to-build-a-voice-ai-agent)
 
 ## Weird Stuff
 - [Preaching the Goatse gospel: A timeline](https://blockworks.co/news/0xresearch-newsletter-goatse-memecoin)
