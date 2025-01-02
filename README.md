@@ -59,6 +59,25 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [W&B](https://wandb.ai/): The AI developer platform to build AI applications and models with confidence
 - [Flux Ai](https://flux-ai.io/): The next-gen image generator rivaling MidJourney Powered by Flux 1.1 Pro Ultra, Flux 1.1 Pro, Flux.1 Pro, Flux.1 Dev and Flux.1 Schnell models.
 - [GraphLit](https://www.graphlit.com/): Automated data preparation for multimodal content, including Markdown extraction, audio transcription and image analysis
+- [Steamship](https://www.steamship.com/): Our first is an Influencer Marketing Manager. Always working to grow your marketing campaigns.
+- [SuperAGI](https://superagi.com/): Accelerate business growth, improve customer experience & unlock limitless productivity with Agentic Super Intelligence For Sales, Marketing & Support
+- [Swimm](https://swimm.io/): Understand and work in any codebase in minutes
+- [LaunchDarkly](https://launchdarkly.com/): LaunchDarkly unites feature flags, context-aware targeting, and experimentation in one powerful software delivery platform.
+- [Log10](https://www.log10.io/): Deploy AI with confidence in high-stakes, regulated industries.
+- [Leena](https://leena.ai/): A Gen AI autonomous agent for employees that reduces IT, HR, Finance tickets. We guarantee 70% self-service ratio in the contract.
+- [HappyRobot](https://www.happyrobot.ai/): Automate communication across channels with AI workers that integrate with your systems, manage conversations, & log data
+
+### Voice specific
+- [Arini](https://www.arini.ai/): The AI Receptionist for Dentists
+- [Bland](https://www.bland.ai/): AI Phone Calls.
+- [VAPI](https://vapi.ai/): Vapi lets developers build, test and deploy voice agents in minutes rather than months.
+- [Marr Labs](https://marrlabs.com/): Introducing Vox, an AI-voice agent indistinguishable from a human
+- [Retell Ai](https://www.retellai.com/): Supercharge your Call Operations with Voice AI
+- [Sindarin](https://www.sindarin.tech/): Speak with your users like never before.
+- [Synthflow](https://synthflow.ai/): Effortless Human-Like AI Phone Calls
+- [Thoughtly](https://www.thoughtly.com/): Deploy your fully-integrated AI call center starting at just 9 cents per minute. Build workflows around your CRM, and let your agents handle the rest.
+- [Vocode](https://www.vocode.dev/): Build, deploy, and scale hyperrealistic voice agents.
+- [Vocera](https://www.vocera.ai/): Launch in minutes not weeks by ensuring your agents deliver a seamless experience in every conversational scenario
 
 ### Developer platforms
 - [Bito](https://docs.bito.ai/): Bito's AI helps developers dramatically accelerate their impact. It's a Swiss Army knife of capabilities that can 10x your developer productivity and save you an hour a day, using the same models as ChatGPT!
@@ -86,6 +105,10 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [E2B](https://e2b.dev/): Run AI-Generated code securely in your app
 - [Flux](https://www.flux.ai/p): Build professional PCBs with an AI Copilot
 - [StackBlitz](https://stackblitz.com/): StackBlitz lets you write, run, and debug frontend code directly in your browser.
+- [LLMStack](https://llmstack.ai/): Open-source platform to build AI Agents, workflows and applications with your data
+- [milestone](https://mstone.ai/): Boost ROI At Your GenAI Investment
+- [pezzo](https://docs.pezzo.ai/): It empowers developers and teams to leverage the full potential of AI models in their applications with ease.
+- [SourceGraph](https://sourcegraph.com/): Code Intelligence for untangling big, messy codebases
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
