@@ -67,6 +67,20 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Leena](https://leena.ai/): A Gen AI autonomous agent for employees that reduces IT, HR, Finance tickets. We guarantee 70% self-service ratio in the contract.
 - [HappyRobot](https://www.happyrobot.ai/): Automate communication across channels with AI workers that integrate with your systems, manage conversations, & log data
 
+### 3D, Physical
+- [Altera](https://altera.al/): Multi-agent research company building digital humans: machines with fundamental human qualities.
+- [Artificial Agency](https://www.artificial.agency/): a generative behavior engine that integrates runtime decision-making seamlessly into any aspect of a game
+- [Decart](https://www.decart.ai/): The First Real-Time Generative AI Open World Model
+- [Elefant](https://elefant.gg/): AI Friends in Minecraft
+- [Physical Intelligence](https://www.physicalintelligence.company/): Physical Intelligence is bringing general-purpose AI into the physical world.
+- [T-robotics](https://www.t-robotics.ai/): No Code Robot Programming
+
+### Video specific
+- [HeyGen](https://www.heygen.com/): Create and translate videos with HeyGen's AI Video Generator
+- [HourOne](https://hourone.ai/): Create Media & Entertainment experiences, conversing avatars and dynamic videos with Gen-AI
+- [Synthesia](https://www.synthesia.io/): Create studio-quality videos with AI avatars and voiceovers in 140+ languages. It’s as easy as making a slide deck.
+- [Yepic](https://www.yepic.ai/): Boost Your Business With AI Avatars
+
 ### Voice specific
 - [Arini](https://www.arini.ai/): The AI Receptionist for Dentists
 - [Bland](https://www.bland.ai/): AI Phone Calls.
