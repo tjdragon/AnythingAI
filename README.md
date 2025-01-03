@@ -302,6 +302,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [“Agents Will Replace ALL Software"](https://www.youtube.com/watch?v=uGOLYz2pgr8): By Microsoft's CEO
 - [Artificial Intelligence in Surgery: The Future Is Now](https://karger.com/esr/article-pdf/65/1/22/4174050/000536393.pdf)
 - [How to Build a Voice AI Agent Using Deepgram and OpenAI: A Step-by-Step Guide](https://deepgram.com/learn/how-to-build-a-voice-ai-agent)
+- [Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents](https://www.weforum.org/publications/navigating-the-ai-frontier-a-primer-on-the-evolution-and-impact-of-ai-agents/)
 
 ## Weird Stuff
 - [Preaching the Goatse gospel: A timeline](https://blockworks.co/news/0xresearch-newsletter-goatse-memecoin)
