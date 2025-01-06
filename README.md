@@ -211,6 +211,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Weaviate](https://weaviate.io/platform)
 - [Neon](https://neon.tech/)
 - [Supabase](https://supabase.com/vector)
+- [Datastax Astra](https://www.datastax.com/products/datastax-astra)
 
 ## Agents & Other stuff - Uncategorized for now
 - [Frameworks](https://www.analyticsvidhya.com/blog/2024/07/ai-agent-frameworks/)
