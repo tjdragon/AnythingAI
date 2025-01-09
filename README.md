@@ -123,6 +123,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [milestone](https://mstone.ai/): Boost ROI At Your GenAI Investment
 - [pezzo](https://docs.pezzo.ai/): It empowers developers and teams to leverage the full potential of AI models in their applications with ease.
 - [SourceGraph](https://sourcegraph.com/): Code Intelligence for untangling big, messy codebases
+- [AnythingLLM](https://anythingllm.com/): The all-in-one AI application
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
