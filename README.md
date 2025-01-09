@@ -124,6 +124,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [pezzo](https://docs.pezzo.ai/): It empowers developers and teams to leverage the full potential of AI models in their applications with ease.
 - [SourceGraph](https://sourcegraph.com/): Code Intelligence for untangling big, messy codebases
 - [AnythingLLM](https://anythingllm.com/): The all-in-one AI application
+- [Vanna](https://vanna.ai/): Let Vanna.AI write your SQL for you
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -305,6 +306,11 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Artificial Intelligence in Surgery: The Future Is Now](https://karger.com/esr/article-pdf/65/1/22/4174050/000536393.pdf)
 - [How to Build a Voice AI Agent Using Deepgram and OpenAI: A Step-by-Step Guide](https://deepgram.com/learn/how-to-build-a-voice-ai-agent)
 - [Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents](https://www.weforum.org/publications/navigating-the-ai-frontier-a-primer-on-the-evolution-and-impact-of-ai-agents/)
+
+## [Cookbooks](https://huggingface.co/learn/cookbook/index)
+- [Agent for text-to-SQL with automatic error correction](https://huggingface.co/learn/cookbook/agent_text_to_sql)
+- [Building A RAG Ebook “Librarian” Using LlamaIndex](https://huggingface.co/learn/cookbook/rag_llamaindex_librarian)
+- [RAG backed by SQL and Jina Reranker v2](https://huggingface.co/learn/cookbook/rag_with_sql_reranker)
 
 ## Weird Stuff
 - [Preaching the Goatse gospel: A timeline](https://blockworks.co/news/0xresearch-newsletter-goatse-memecoin)
