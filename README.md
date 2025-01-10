@@ -66,6 +66,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Log10](https://www.log10.io/): Deploy AI with confidence in high-stakes, regulated industries.
 - [Leena](https://leena.ai/): A Gen AI autonomous agent for employees that reduces IT, HR, Finance tickets. We guarantee 70% self-service ratio in the contract.
 - [HappyRobot](https://www.happyrobot.ai/): Automate communication across channels with AI workers that integrate with your systems, manage conversations, & log data
+- [Day](https://day.ai/): AI-native CRM that brings customers into every decision
 
 ### 3D, Physical
 - [Altera](https://altera.al/): Multi-agent research company building digital humans: machines with fundamental human qualities.
@@ -250,6 +251,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Groq](https://groq.com/)
 - [AWS Bedrock](https://aws.amazon.com/bedrock/)
 - [Hugging Face](https://huggingface.co/models)
+- [Chain GPT](https://www.chaingpt.org/)
 
 ## Workflows Engines
 - [Make](https://www.make.com/en)
@@ -261,6 +263,10 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Circle Blog](https://www.circle.com/blog/enabling-ai-agents-with-blockchain): Enabling AI Agents with Blockchain
 - [Allora Labs](https://www.alloralabs.xyz/): builds industry-leading AI x crypto infrastructure.
 - [Robonet](https://robonet.finance/): unlocks the next era of DeFi with smarter, autonomous AI agents.
+- [Virtual Protocols](https://app.virtuals.io/)
+- [Sahara Labs](https://saharalabs.ai/)
+- [Morpheus Ai](https://mor.org/): The first peer-to-peer network for general purpose AI, powered by MOR
+- [Ai XBT](https://aixbt.live/)
 
 ## Digital Money
 - [VISA On-Chain](https://visaonchainanalytics.com/)
@@ -290,6 +296,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [What is Agentic RAG](https://weaviate.io/blog/what-is-agentic-rag?s=08)
 - [Scaling: The State of Play in AI](https://www.oneusefulthing.org/p/scaling-the-state-of-play-in-ai)
 - [AI Hedge Fund with Gemini](https://colab.research.google.com/gist/virattt/251cfea5e66b21c7b6a58b8952476117/hedge-fund-trading-team.ipynb)
+- [How to deploy a text embedding model and use it for semantic search](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-text-emb-vector-search-example.html)
 
 ## Podcasts, Videos and Articles of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
