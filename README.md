@@ -318,6 +318,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Agent for text-to-SQL with automatic error correction](https://huggingface.co/learn/cookbook/agent_text_to_sql)
 - [Building A RAG Ebook “Librarian” Using LlamaIndex](https://huggingface.co/learn/cookbook/rag_llamaindex_librarian)
 - [RAG backed by SQL and Jina Reranker v2](https://huggingface.co/learn/cookbook/rag_with_sql_reranker)
+- [Monolith](https://github.com/bytedance/monolith): Deep learning framework for large scale recommendation modeling
 
 ## Weird Stuff
 - [Preaching the Goatse gospel: A timeline](https://blockworks.co/news/0xresearch-newsletter-goatse-memecoin)
