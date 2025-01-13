@@ -67,6 +67,15 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Leena](https://leena.ai/): A Gen AI autonomous agent for employees that reduces IT, HR, Finance tickets. We guarantee 70% self-service ratio in the contract.
 - [HappyRobot](https://www.happyrobot.ai/): Automate communication across channels with AI workers that integrate with your systems, manage conversations, & log data
 - [Day](https://day.ai/): AI-native CRM that brings customers into every decision
+- [Granola](https://www.granola.ai/): The AI notepad for people in back-to-back meetings
+- [Gamma](https://gamma.app/): A new medium for presenting ideas. Powered by AI
+- [Cubby](https://cubby.nyc/): A private workspace to store files and links, annotate your content and synthesize with AI
+- [Coral](https://www.getcoralai.com/): Let AI summarize, find information, translate, transcribe, and get citations from your files in seconds. Works in 90+ languages. 
+- [AnyChat](https://anychat.tech/en): Maximize purchases through chat commerce
+- [MidJourney](https://www.midjourney.com/): AI Image Gen
+- [Ideogram](https://ideogram.ai/): AI Image Gen
+- [Playground](https://playground.com/): AI Image Gen
+- [Curio](https://www.rionews.ai/): We're working to fix news with a personal AI news companion that lets you take control.
 
 ### 3D, Physical
 - [Altera](https://altera.al/): Multi-agent research company building digital humans: machines with fundamental human qualities.
@@ -81,6 +90,11 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [HourOne](https://hourone.ai/): Create Media & Entertainment experiences, conversing avatars and dynamic videos with Gen-AI
 - [Synthesia](https://www.synthesia.io/): Create studio-quality videos with AI avatars and voiceovers in 140+ languages. It’s as easy as making a slide deck.
 - [Yepic](https://www.yepic.ai/): Boost Your Business With AI Avatars
+- [Runway](https://runwayml.com/): Runway is an applied research company building the next era of art, entertainment and human creativity.
+- [Kling](https://klingai.com/): AI Creative Studio
+- [Viggle](https://viggle.ai/): Control the move, create your story
+- [Krea](https://www.krea.ai/): Ultra fast video generation, with sound
+- [Remix](https://remix.ai/): Create, share, and remix  AI images and video
 
 ### Voice specific
 - [Arini](https://www.arini.ai/): The AI Receptionist for Dentists
@@ -93,6 +107,10 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Thoughtly](https://www.thoughtly.com/): Deploy your fully-integrated AI call center starting at just 9 cents per minute. Build workflows around your CRM, and let your agents handle the rest.
 - [Vocode](https://www.vocode.dev/): Build, deploy, and scale hyperrealistic voice agents.
 - [Vocera](https://www.vocera.ai/): Launch in minutes not weeks by ensuring your agents deliver a seamless experience in every conversational scenario
+- [Flow Voice](https://www.flowvoice.ai/): Think it, speak it, send it
+- [ElevenLabs](https://elevenlabs.io/): Create the most realistic speech with our AI audio platform
+- [Suno](https://suno.com/): Make a song about anything 
+- [Udio](https://www.udio.com/): Create any song. Just describe it.
 
 ### Developer platforms
 - [Bito](https://docs.bito.ai/): Bito's AI helps developers dramatically accelerate their impact. It's a Swiss Army knife of capabilities that can 10x your developer productivity and save you an hour a day, using the same models as ChatGPT!
@@ -126,6 +144,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [SourceGraph](https://sourcegraph.com/): Code Intelligence for untangling big, messy codebases
 - [AnythingLLM](https://anythingllm.com/): The all-in-one AI application
 - [Vanna](https://vanna.ai/): Let Vanna.AI write your SQL for you
+- [Codeium](https://codeium.com/): The new purpose-built IDE to harness magic
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
