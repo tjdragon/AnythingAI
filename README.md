@@ -5,6 +5,11 @@ Created in Nov 2024, Last Updated: Today.
 
 ## Agents & Other stuff - Categorized
 
+## Search for it: agents networks
+- [Agent.ai](https://agent.ai/agents)
+- [AI Agents List](https://aiagentslist.com/)
+- [AI Agents Directory](https://aiagentsdirectory.com/)
+
 ### Vertical Agents
 Vertical AI agents are specialized AI systems designed to automate specific tasks and workflows within a particular industry or domain. 
 They go beyond general-purpose AI by incorporating industry-specific knowledge and expertise to solve unique challenges and optimize processes.
