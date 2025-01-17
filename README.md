@@ -227,6 +227,7 @@ AI models are essentially complex mathematical representations that have been tr
 - [Fetch](https://fetch.ai/)
 - [Hugging Face](https://huggingface.co/models)
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
+- [DeepSeek](https://www.deepseek.com/)
 
 ### Storage
 AI storage is a type of storage that is specifically designed to meet the needs of artificial intelligence (AI) applications. These applications tend to be very data-intensive, so AI storage needs to be able to handle large volumes of data with high performance and low latency.
@@ -321,6 +322,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Scaling: The State of Play in AI](https://www.oneusefulthing.org/p/scaling-the-state-of-play-in-ai)
 - [AI Hedge Fund with Gemini](https://colab.research.google.com/gist/virattt/251cfea5e66b21c7b6a58b8952476117/hedge-fund-trading-team.ipynb)
 - [How to deploy a text embedding model and use it for semantic search](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-text-emb-vector-search-example.html)
+- [Avec 450 dollars et 19 heures, vous pouvez créer un rival à OpenAI o1](https://www.zdnet.fr/actualites/avec-450-dollars-et-19-heures-vous-pouvez-creer-un-rival-a-openai-o1-404439.htm)
 
 ## Podcasts, Videos and Articles of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
