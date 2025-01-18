@@ -323,6 +323,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [AI Hedge Fund with Gemini](https://colab.research.google.com/gist/virattt/251cfea5e66b21c7b6a58b8952476117/hedge-fund-trading-team.ipynb)
 - [How to deploy a text embedding model and use it for semantic search](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-text-emb-vector-search-example.html)
 - [Avec 450 dollars et 19 heures, vous pouvez créer un rival à OpenAI o1](https://www.zdnet.fr/actualites/avec-450-dollars-et-19-heures-vous-pouvez-creer-un-rival-a-openai-o1-404439.htm)
+- [Create a SQL Agent using CrewAI and Groq](https://medium.com/the-ai-forum/create-a-sql-agent-using-crewai-and-groq-005895ba31b3)
 
 ## Podcasts, Videos and Articles of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
@@ -339,6 +340,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Artificial Intelligence in Surgery: The Future Is Now](https://karger.com/esr/article-pdf/65/1/22/4174050/000536393.pdf)
 - [How to Build a Voice AI Agent Using Deepgram and OpenAI: A Step-by-Step Guide](https://deepgram.com/learn/how-to-build-a-voice-ai-agent)
 - [Navigating the AI Frontier: A Primer on the Evolution and Impact of AI Agents](https://www.weforum.org/publications/navigating-the-ai-frontier-a-primer-on-the-evolution-and-impact-of-ai-agents/)
+- [Restaurant Reservation Voice AI Agent (Vapi + n8n)](https://www.youtube.com/watch?v=xM7cBt-VZTU)
 
 ## [Cookbooks](https://huggingface.co/learn/cookbook/index)
 - [Agent for text-to-SQL with automatic error correction](https://huggingface.co/learn/cookbook/agent_text_to_sql)
