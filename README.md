@@ -1,5 +1,5 @@
 # AnythingAI
-Anything About Artificial Intelligence.  
+Anything and everything about Artificial Intelligence, Machine Learning, Agentic AI, LLM and LCMs.  
 Links, Podcasts, Repos of Interest.  
 Created in Nov 2024, Last Updated: Today.
 
