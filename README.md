@@ -81,6 +81,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Ideogram](https://ideogram.ai/): AI Image Gen
 - [Playground](https://playground.com/): AI Image Gen
 - [Curio](https://www.rionews.ai/): We're working to fix news with a personal AI news companion that lets you take control.
+- [Neuralk AI](https://www.neuralk-ai.com/): Unleash the Full Potential of Your Structured Data
 
 ### 3D, Physical
 - [Altera](https://altera.al/): Multi-agent research company building digital humans: machines with fundamental human qualities.
