@@ -280,6 +280,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Groq](https://groq.com/)
 - [AWS Bedrock](https://aws.amazon.com/bedrock/)
 - [Hugging Face](https://huggingface.co/models)
+- [Hugging Face Spaces](https://huggingface.co/spaces)
 - [Chain GPT](https://www.chaingpt.org/)
 
 ## Workflows Engines
