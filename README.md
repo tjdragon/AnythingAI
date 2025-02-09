@@ -231,6 +231,7 @@ AI models are essentially complex mathematical representations that have been tr
 - [Hugging Face](https://huggingface.co/models)
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
 - [DeepSeek](https://www.deepseek.com/)
+- [Mammouth](https://mammouth.ai/)
 
 ### Storage
 AI storage is a type of storage that is specifically designed to meet the needs of artificial intelligence (AI) applications. These applications tend to be very data-intensive, so AI storage needs to be able to handle large volumes of data with high performance and low latency.
@@ -347,6 +348,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Restaurant Reservation Voice AI Agent (Vapi + n8n)](https://www.youtube.com/watch?v=xM7cBt-VZTU)
 - [The Chinese OBLITERATED OpenAI. A side-by-side comparison of DeepSeek R1 vs OpenAI O1 for Finance](https://nexustrade.io/blog/the-chinese-obliterated-openai-a-side-by-side-comparison-of-deepseek-r1-vs-openai-o1-for-finance-20250121)
 - [The end of tutorials](https://www.youtube.com/watch?v=3cvczHJSRNs&t=512s)
+- [Interview Mistral AI CEO](https://www.youtube.com/watch?v=bzs0wFP_6ck)
 
 ## [Cookbooks](https://huggingface.co/learn/cookbook/index)
 - [Agent for text-to-SQL with automatic error correction](https://huggingface.co/learn/cookbook/agent_text_to_sql)
