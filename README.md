@@ -151,6 +151,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [AnythingLLM](https://anythingllm.com/): The all-in-one AI application
 - [Vanna](https://vanna.ai/): Let Vanna.AI write your SQL for you
 - [Codeium](https://codeium.com/): The new purpose-built IDE to harness magic
+- [Lite LLM](https://www.litellm.ai/): LM Gateway to provide model access, logging and usage tracking across 100+ LLMs. 
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
