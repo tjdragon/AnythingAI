@@ -10,6 +10,9 @@ Created in Nov 2024, Last Updated: Today.
 - [AI Agents List](https://aiagentslist.com/)
 - [AI Agents Directory](https://aiagentsdirectory.com/)
 
+### Personal Assitant
+- [khoj](https://github.com/khoj-ai/khoj): Khoj is a personal AI app to extend your capabilities.
+
 ### Vertical Agents
 Vertical AI agents are specialized AI systems designed to automate specific tasks and workflows within a particular industry or domain. 
 They go beyond general-purpose AI by incorporating industry-specific knowledge and expertise to solve unique challenges and optimize processes.
