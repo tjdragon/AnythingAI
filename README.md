@@ -155,6 +155,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Vanna](https://vanna.ai/): Let Vanna.AI write your SQL for you
 - [Codeium](https://codeium.com/): The new purpose-built IDE to harness magic
 - [Lite LLM](https://www.litellm.ai/): LM Gateway to provide model access, logging and usage tracking across 100+ LLMs. 
+- [Model Context Protocol (MCP)](https://modelcontextprotocol.io/): MCP is an open protocol that standardizes how applications provide context to LLMs.
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -236,6 +237,7 @@ AI models are essentially complex mathematical representations that have been tr
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
 - [DeepSeek](https://www.deepseek.com/)
 - [Mammouth](https://mammouth.ai/)
+- [Manus](https://manus.im/)
 
 ### Storage
 AI storage is a type of storage that is specifically designed to meet the needs of artificial intelligence (AI) applications. These applications tend to be very data-intensive, so AI storage needs to be able to handle large volumes of data with high performance and low latency.
