@@ -93,6 +93,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Elefant](https://elefant.gg/): AI Friends in Minecraft
 - [Physical Intelligence](https://www.physicalintelligence.company/): Physical Intelligence is bringing general-purpose AI into the physical world.
 - [T-robotics](https://www.t-robotics.ai/): No Code Robot Programming
+- [Le Robot](https://github.com/huggingface/lerobot): Le Robot by Hugging Face
 
 ### Video specific
 - [HeyGen](https://www.heygen.com/): Create and translate videos with HeyGen's AI Video Generator
@@ -358,6 +359,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [The Chinese OBLITERATED OpenAI. A side-by-side comparison of DeepSeek R1 vs OpenAI O1 for Finance](https://nexustrade.io/blog/the-chinese-obliterated-openai-a-side-by-side-comparison-of-deepseek-r1-vs-openai-o1-for-finance-20250121)
 - [The end of tutorials](https://www.youtube.com/watch?v=3cvczHJSRNs&t=512s)
 - [Interview Mistral AI CEO](https://www.youtube.com/watch?v=bzs0wFP_6ck)
+- [Interview Hugging Face - Le Robot](https://www.youtube.com/watch?v=02k0AxZcetE)
 
 ## [Cookbooks](https://huggingface.co/learn/cookbook/index)
 - [Agent for text-to-SQL with automatic error correction](https://huggingface.co/learn/cookbook/agent_text_to_sql)
