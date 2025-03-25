@@ -159,6 +159,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Model Context Protocol (MCP)](https://modelcontextprotocol.io/): MCP is an open protocol that standardizes how applications provide context to LLMs.
 - [Open AI Agents](https://platform.openai.com/docs/guides/agents): Learn how to build agents with the OpenAI API.
 - [AGNTCY](https://outshift.cisco.com/blog/building-the-internet-of-agents-introducing-the-AGNTCY): An open source collective building the critical infrastructure for AI agents to work together
+- [Pipe Cat](https://docs.pipecat.ai/): Pipecat is a framework for building voice-enabled, real-time, multimodal AI applications
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
