@@ -160,6 +160,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Open AI Agents](https://platform.openai.com/docs/guides/agents): Learn how to build agents with the OpenAI API.
 - [AGNTCY](https://outshift.cisco.com/blog/building-the-internet-of-agents-introducing-the-AGNTCY): An open source collective building the critical infrastructure for AI agents to work together
 - [Pipe Cat](https://docs.pipecat.ai/): Pipecat is a framework for building voice-enabled, real-time, multimodal AI applications
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers): open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. 
+- [Browser Use](https://github.com/browser-use/browser-use): Enable AI to control your browser
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
