@@ -244,6 +244,7 @@ AI models are essentially complex mathematical representations that have been tr
 - [DeepSeek](https://www.deepseek.com/)
 - [Mammouth](https://mammouth.ai/)
 - [Manus](https://manus.im/)
+- [Nova Act](https://labs.amazon.science/blog/nova-act)
 
 ### Storage
 AI storage is a type of storage that is specifically designed to meet the needs of artificial intelligence (AI) applications. These applications tend to be very data-intensive, so AI storage needs to be able to handle large volumes of data with high performance and low latency.
