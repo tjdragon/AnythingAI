@@ -87,8 +87,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Neuralk AI](https://www.neuralk-ai.com/): Unleash the Full Potential of Your Structured Data
 
 ### Finance
-- [https://github.com/AI4Finance-Foundation/FinGPT](FinGPT): Open-Source Financial Large Language Models
-- [https://www.financialdatasets.ai/](Financial Datasets): Build LLM Applications using [https://www.financialdatasets.ai/products/insider-trading](market data sets)
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT): Open-Source Financial Large Language Models
+- [Financial Datasets](https://www.financialdatasets.ai/): Build LLM Applications using [market data sets](https://www.financialdatasets.ai/products/insider-trading)
 
 ### 3D, Physical
 - [Altera](https://altera.al/): Multi-agent research company building digital humans: machines with fundamental human qualities.
