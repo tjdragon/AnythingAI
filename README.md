@@ -86,6 +86,11 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Curio](https://www.rionews.ai/): We're working to fix news with a personal AI news companion that lets you take control.
 - [Neuralk AI](https://www.neuralk-ai.com/): Unleash the Full Potential of Your Structured Data
 
+### Finance
+- [https://github.com/AI4Finance-Foundation/FinGPT](FinGPT): Open-Source Financial Large Language Models
+- [https://www.financialdatasets.ai/](Financial Datasets): Build LLM Applications using [https://www.financialdatasets.ai/products/insider-trading](market data sets)
+- []()
+
 ### 3D, Physical
 - [Altera](https://altera.al/): Multi-agent research company building digital humans: machines with fundamental human qualities.
 - [Artificial Agency](https://www.artificial.agency/): a generative behavior engine that integrates runtime decision-making seamlessly into any aspect of a game
