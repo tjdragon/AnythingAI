@@ -89,7 +89,6 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 ### Finance
 - [https://github.com/AI4Finance-Foundation/FinGPT](FinGPT): Open-Source Financial Large Language Models
 - [https://www.financialdatasets.ai/](Financial Datasets): Build LLM Applications using [https://www.financialdatasets.ai/products/insider-trading](market data sets)
-- []()
 
 ### 3D, Physical
 - [Altera](https://altera.al/): Multi-agent research company building digital humans: machines with fundamental human qualities.
