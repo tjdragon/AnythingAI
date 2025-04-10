@@ -368,6 +368,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [The end of tutorials](https://www.youtube.com/watch?v=3cvczHJSRNs&t=512s)
 - [Interview Mistral AI CEO](https://www.youtube.com/watch?v=bzs0wFP_6ck)
 - [Interview Hugging Face - Le Robot](https://www.youtube.com/watch?v=02k0AxZcetE)
+- [AI 2027](https://ai-2027.com/)
 
 ## [Cookbooks](https://huggingface.co/learn/cookbook/index)
 - [Agent for text-to-SQL with automatic error correction](https://huggingface.co/learn/cookbook/agent_text_to_sql)
