@@ -351,6 +351,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Create a SQL Agent using CrewAI and Groq](https://medium.com/the-ai-forum/create-a-sql-agent-using-crewai-and-groq-005895ba31b3)
 - [Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
 - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf): By Francois Fleuret
+- [Intro to Large Language Model](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
 ## Podcasts, Videos and Articles of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
