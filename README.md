@@ -166,6 +166,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Pipe Cat](https://docs.pipecat.ai/): Pipecat is a framework for building voice-enabled, real-time, multimodal AI applications
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers): open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. 
 - [Browser Use](https://github.com/browser-use/browser-use): Enable AI to control your browser
+- [OpenAI Codex](https://openai.com/index/introducing-codex/): A cloud-based software engineering agent that can work on many tasks in parallel
+- [Gemini Code](https://codeassist.google/products/business?hl=fr): AI-assisted development for your business
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -348,6 +350,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Avec 450 dollars et 19 heures, vous pouvez créer un rival à OpenAI o1](https://www.zdnet.fr/actualites/avec-450-dollars-et-19-heures-vous-pouvez-creer-un-rival-a-openai-o1-404439.htm)
 - [Create a SQL Agent using CrewAI and Groq](https://medium.com/the-ai-forum/create-a-sql-agent-using-crewai-and-groq-005895ba31b3)
 - [Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
+- [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf): By Francois Fleuret
 
 ## Podcasts, Videos and Articles of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
