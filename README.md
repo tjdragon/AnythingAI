@@ -224,6 +224,7 @@ Integration platforms for AI Agents & LLMs:
 - [Composio](https://composio.dev/)
 - [Exa](https://exa.ai/)
 - [BrowserBase](https://www.browserbase.com/)
+- [One MCP](https://onemcp.io/)
 
 ### Sandboxes
 AI sandboxes are isolated environments where developers can build, test, and deploy AI agents without affecting real-world systems or data. They provide a safe space to experiment with new ideas, debug code, and ensure the responsible use of AI.
