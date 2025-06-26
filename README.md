@@ -169,6 +169,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [OpenAI Codex](https://openai.com/index/introducing-codex/): A cloud-based software engineering agent that can work on many tasks in parallel
 - [Gemini Code](https://codeassist.google/products/business?hl=fr): AI-assisted development for your business
 - [Jules](https://jules.google.com/): Just amazing!
+- [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
