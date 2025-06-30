@@ -211,6 +211,7 @@ Agent frameworks are specialized software platforms designed to streamline the d
 - [Google Agent Space](https://cloud.google.com/products/agentspace)
 - [Atomic Agents](https://github.com/BrainBlend-AI/atomic-agents)
 - [A2A](https://github.com/google/A2A): An open protocol enabling communication and interoperability between opaque agentic applications.
+- [Abacus](https://chatllm.abacus.ai/): One AI assistant with access to all top LLMs
 
 ### Memory
 Refers to the ability of an AI system to store, retrieve, and utilize information from past interactions or experiences, much like human memory. This is crucial for creating more sophisticated and capable AI agents that can learn, adapt, and engage in more meaningful conversations.
