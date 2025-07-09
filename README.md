@@ -170,6 +170,8 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 - [Gemini Code](https://codeassist.google/products/business?hl=fr): AI-assisted development for your business
 - [Jules](https://jules.google.com/): Just amazing!
 - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+- [Gen AI Toolbox](https://github.com/googleapis/genai-toolbox): MCP Toolbox for Databases by Google
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 
 ### Agent Hosting and serving
 Agent hosting and serving refers to the infrastructure and processes involved in deploying and managing AI agents, making them accessible to users or applications.
@@ -293,6 +295,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [AWS Multi-Agent Orchestrator](https://github.com/awslabs/multi-agent-orchestrator)
 - [Perplexideez](https://github.com/brunostjohn/perplexideez?s=08): Self-hosted AI-powered search.
 - [Eliza](https://github.com/ai16z/eliza): Chatbots, Trading, Video Game NPCs
+- [Pay per crawl](https://blog.cloudflare.com/introducing-pay-per-crawl/): by cloudflare
 
 ## Models
 - [Microsoft Phi](https://azure.microsoft.com/en-us/products/phi)
