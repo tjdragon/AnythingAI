@@ -89,6 +89,7 @@ They go beyond general-purpose AI by incorporating industry-specific knowledge a
 ### Finance
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT): Open-Source Financial Large Language Models
 - [Financial Datasets](https://www.financialdatasets.ai/): Build LLM Applications using [market data sets](https://www.financialdatasets.ai/products/insider-trading)
+- [Claude for Financial Services](https://www.anthropic.com/news/claude-for-financial-services): a comprehensive solution for financial analysis that transforms how finance professionals analyze markets, conduct research, and make investment decisions with Claude
 
 ### 3D, Physical
 - [Altera](https://altera.al/): Multi-agent research company building digital humans: machines with fundamental human qualities.
