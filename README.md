@@ -2,7 +2,7 @@
 Anything and everything about Artificial Intelligence, Machine Learning, Agentic AI, LLM and LCMs.  
 Links, Podcasts, Repos of Interest.  
 Created in Nov 2024, Last Updated: Today.  
-[TJ](https://www.linkedin.com/in/tsjanaudy/). 
+[TJ](https://www.linkedin.com/in/tsjanaudy/)
 
 ## Agents & Other stuff - Categorized
 
