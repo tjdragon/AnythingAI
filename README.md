@@ -361,6 +361,7 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf)
 - [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf): By Francois Fleuret
 - [Intro to Large Language Model](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- [LLM Visualization](https://bbycroft.net/llm)
 
 ## Podcasts, Videos and Articles of Interest
 - [How Crypto AI Agents Will Take Over the World](https://www.bankless.com/how-crypto-ai-agents-will-take-over-the-world-ejaaz-ahamadeen)
@@ -395,6 +396,11 @@ AI storage is a type of storage that is specifically designed to meet the needs 
 - [Truth Terminal Gone Wild](https://rekt.news/truth-terminal-gone-wild/)
 - [Vvaifu](https://vvaifu.fun/)
 
-## My Personal Experiments
+## My Personal Experiments / Projects
 - [AI Rap Battle](https://github.com/tjdragon/AI-Rap-Battle)
 - [Cui Cui](https://github.com/tjdragon/cuicui)
+- [LLM de Zero](https://github.com/tjdragon/LLMde0)
+
+## Integration standards
+- [Agent To Agent](https://github.com/a2aproject)
+- [Model Context Protocol](https://modelcontextprotocol.io/)
