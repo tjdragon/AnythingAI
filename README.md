@@ -387,14 +387,9 @@ _This category includes other interesting or uncategorized resources._
 
 * **[Swarms](https://docs.swarms.ai/)**: Documentation for the Swarms project.
 * **[AgentCoin](https://agentcoin.ai/)**: A platform for AI agents in crypto.
-* **[AutoTx](https://autotx.xyz/)**: A blog post on AutoTx.
-* **[Distributed Agents](https://distributedagents.ai/)**: A user guide for distributed agents.
-* **[n8n templates](https://n8n.io/templates)**: A library of n8n workflow templates.
 * **[The World's Fastest AI Inference](https://fastinference.ai/)**: A company specializing in fast AI inference.
 * **[Hugging Face Spaces](https://huggingface.co/spaces)**: A hub for hosting and sharing machine learning demos.
 * **[Chain GPT](https://chaingpt.org/)**: A blockchain-based AI solution.
 * **[Workflows Engines](https://workflowengines.ai/)**: A workflow automation platform.
 * **[Temporal](https://temporal.io/)**: A workflow orchestration platform.
 * **[Service Now](https://www.servicenow.com/)**: A company that provides a platform for digital workflows.
-* **[Weird Stuff](https://a16z.com/crypto/weird-stuff-crypto-people-say-and-what-they-mean/)**: A link to a blog post about crypto.
-* **[Vvaifu](https://vvaifu.com/)**: A website for a virtual waifu.
